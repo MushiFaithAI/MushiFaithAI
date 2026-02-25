@@ -1,5 +1,4 @@
-
-h1 align="center">Hi 👋, I'm MushiFaithAI</h1>
+>Hi 👋, I'm MushiFaithAI</h1>
 <h3 align="center">I am currently a student at Africa International University</h3>https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnllZHl2NWk3aDI3aTFtZWg3MzB0ZDU5NGpzYWJwZDVyajBldHVncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif
 
 
